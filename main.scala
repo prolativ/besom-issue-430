@@ -1,5 +1,5 @@
 package repro
 
 object inmain:
-  object OutputExtensions extends repro.OutputExtensionsFactory
+  object OutputExtensions extends OutputExtensionsFactory
   export OutputExtensions.*
